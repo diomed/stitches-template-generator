@@ -45,25 +45,25 @@ View the full documentation at https://tailwindcss.com.
 let colors = {
   transparent: "transparent",
 
-  black: "#020203",
-  "grey-darkest": "#3d4852",
-  "grey-darker": "#606f7b",
-  "grey-dark": "#8795a1",
-  grey: "#b8c2cc",
-  "grey-light": "#dae1e7",
-  "grey-lighter": "#f1f5f8",
-  "grey-lightest": "#f8fafc",
-  white: "#ffffff",
-  green: "#38C172",
-  "indigo-darkest": "#191E38",
-  "indigo-darker":  "#2F365F",
-  "indigo-dark":    "#5661B3";
-  "indigo": "#6574CD",
-  "indigo-light": "#7886D7",
-  "indigo-lighter: "#B2B7FF",
-  "indigo-lightest: "#E6E8FF",
-  "fiji": "rgba(255, 255, 255, 0.1)",
-  "fuji": "rgba(0, 0, 0, 0.1)"
+black: "#020203",
+"grey-darkest": "#3d4852",
+"grey-darker": "#606f7b",
+"grey-dark": "#8795a1",
+grey: "#b8c2cc",
+"grey-light": "#dae1e7",
+"grey-lighter": "#f1f5f8",
+"grey-lightest": "#f8fafc",
+white: "#ffffff",
+green: "#38C172",
+"indigo-darkest": "#191E38",
+"indigo-darker":  "#2F365F",
+"indigo-dark":    "#5661B3";
+"indigo": "#6574CD",
+"indigo-light": "#7886D7",
+"indigo-lighter": "#B2B7FF",
+"indigo-lightest": "#E6E8FF",
+"fiji": "rgba(255, 255, 255, 0.1)",
+"fuji": "rgba(0, 0, 0, 0.1)"
 };
 
 module.exports = {
